@@ -178,11 +178,14 @@ const twitterDetails = {
 };
 
 const isHireable = true;
+
+// ✅ FIXED openSource block
 const openSource = {
-  showGithubProfile: "true", // Set true or false to show Contact profile using Github, defaults to true
-  display: true // Set false to hide this section, defaults to true
+  showGithubProfile: "true",
+  display: true
 };
 
+// ✅ Export block (now correct)
 export {
   illustration,
   greeting,
@@ -192,7 +195,7 @@ export {
   educationInfo,
   techStack,
   workExperiences,
-  openSource, // ✅ Now referenced correctly
+  openSource,
   bigProjects,
   achievementSection,
   blogSection,
