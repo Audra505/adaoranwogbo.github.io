@@ -181,7 +181,7 @@ const isHireable = true;
 
 // ✅ FIXED openSource block
 const openSource = {
-  showGithubProfile: "true",
+  showGithubProfile: true,
   display: true
 };
 
