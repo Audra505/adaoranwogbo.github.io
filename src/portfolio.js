@@ -179,6 +179,12 @@ const twitterDetails = {
 
 const isHireable = true;
 
+// ✅ FIX: Define openSource object separately
+const openSource = {
+  showGithubProfile: "true",
+  display: true
+};
+
 export {
   illustration,
   greeting,
@@ -188,7 +194,7 @@ export {
   educationInfo,
   techStack,
   workExperiences,
-  openSource: { showGithubProfile: "true", display: true },
+  openSource, // ✅ Now referenced correctly
   bigProjects,
   achievementSection,
   blogSection,
