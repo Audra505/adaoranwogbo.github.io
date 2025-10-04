@@ -178,11 +178,9 @@ const twitterDetails = {
 };
 
 const isHireable = true;
-
-// ✅ FIX: Define openSource object separately
 const openSource = {
-  showGithubProfile: "true",
-  display: true
+  showGithubProfile: "true", // Set true or false to show Contact profile using Github, defaults to true
+  display: true // Set false to hide this section, defaults to true
 };
 
 export {
