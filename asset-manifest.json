@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.00e97e8d.css",
-    "main.js": "/static/js/main.821e31d9.js",
+    "main.js": "/static/js/main.91aae1fa.js",
     "static/css/487.509dff71.chunk.css": "/static/css/487.509dff71.chunk.css",
     "static/js/487.ea84ee9e.chunk.js": "/static/js/487.ea84ee9e.chunk.js",
     "static/css/990.89d45dd8.chunk.css": "/static/css/990.89d45dd8.chunk.css",
@@ -11,7 +11,6 @@
     "static/media/universitylogo.png": "/static/media/universitylogo.25849bd9b74205659220.png",
     "static/media/bank of america logo.png": "/static/media/bank of america logo.3c4f1adfa37e0143c275.png",
     "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
-    "static/media/resume.pdf": "/static/media/resume.eec6fa5381a6ee94e81f.pdf",
     "static/media/sales_dashboard.png": "/static/media/sales_dashboard.df6d4b370ef91d83cb18.png",
     "static/media/real_estate_dashboard.png": "/static/media/real_estate_dashboard.2c42c218fe4952631821.png",
     "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
@@ -24,7 +23,7 @@
     "index.html": "/index.html",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.00e97e8d.css.map": "/static/css/main.00e97e8d.css.map",
-    "main.821e31d9.js.map": "/static/js/main.821e31d9.js.map",
+    "main.91aae1fa.js.map": "/static/js/main.91aae1fa.js.map",
     "487.509dff71.chunk.css.map": "/static/css/487.509dff71.chunk.css.map",
     "487.ea84ee9e.chunk.js.map": "/static/js/487.ea84ee9e.chunk.js.map",
     "990.89d45dd8.chunk.css.map": "/static/css/990.89d45dd8.chunk.css.map",
@@ -32,6 +31,6 @@
   },
   "entrypoints": [
     "static/css/main.00e97e8d.css",
-    "static/js/main.821e31d9.js"
+    "static/js/main.91aae1fa.js"
   ]
 }
